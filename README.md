@@ -1,6 +1,3 @@
-# SurendraReddy
-About me - Best Practises
-
 # Python Coding Best Practises
 
 - 👉 Best Practise 1 → **Using enumerate()** - Fetch elements from list
